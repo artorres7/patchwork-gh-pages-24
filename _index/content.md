@@ -1,28 +1,12 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://i.ytimg.com/vi/l3HMALfodb8/hqdefault.jpg"
+name: "Alan Torres"
+title: "Swagmaster"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Alan. Born in USA but raise in Mexico. Best of both places*
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+His accomplishments include nothing important so far, but deep down he knows he will be someone in life. Maybe not in a lot of peoples lifes, but at least in one.
 
 Adrian is available for projects on a case by case basis. Some of the services he provides include:
 
-#### Strategic Consulting
-* Competitive analysis
-* Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
-
-#### Management Consulting
-* Oranization structuring
-* Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
-
-#### Education Design and Management
-* Course development
-* Process creation for course authoring teams
